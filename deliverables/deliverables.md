@@ -40,8 +40,8 @@ Held daily group meeting, shared each member’s progress, solved the problems t
 
 ### Self-Assessment of Backend code
 
-- 
+- https://github.com/suwaiphyoe-beatriz/sprint2/blob/main/deliverables/Self-Assessment%20of%20Backendcode.md
 
 ### Self-Assessment of Frontend code
 
-- 
+- https://github.com/suwaiphyoe-beatriz/sprint2/blob/main/deliverables/Self-Assessment%20of%20Frontendcode.md
