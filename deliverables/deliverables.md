@@ -12,7 +12,7 @@
 
 Held daily group meeting, shared each member’s progress, solved the problems together, discussed about the next steps and divide the tasks
 
-- 
+- https://metropoliafi-my.sharepoint.com/:w:/g/personal/suph_metropolia_fi/EQ0e_NC1_gpMhxSgzBYviBsBZqiL4DKQx7FuFyu0xOd3yQ?e=0w5hag 
 
 #### Sprint Review 
 
