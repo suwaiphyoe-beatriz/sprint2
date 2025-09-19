@@ -15,7 +15,7 @@ Held daily group meeting, shared each member’s progress, solved the problems t
 - https://metropoliafi-my.sharepoint.com/:w:/g/personal/suph_metropolia_fi/EQ0e_NC1_gpMhxSgzBYviBsBZqiL4DKQx7FuFyu0xOd3yQ?e=0w5hag 
 
 #### Sprint Review 
-
+Overall ,it went well but we need to prioritize AI Integration functionlity and have to divide what are must have , should have and nice to have. 
 
 #### Sprint Retrospective
 
