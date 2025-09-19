@@ -139,7 +139,12 @@ Before:
 After:
 
 ```javascript
-c
+{filters.country.map(country => (
+  <div key={country} className="inline-flex items-center px-4 py-2 rounded-full bg-blue-100 text-blue-800">
+    <span>🌍 {country}</span>
+    <button onClick={() => handleRemoveFilter('country', country)}>❌</button>
+  </div>
+))}
 ```
 
 Improvement:
